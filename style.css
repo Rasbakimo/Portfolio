@@ -1,5 +1,5 @@
 /* body {font-family:"Times New Roman", serif} */
-h1{font-family: Georgia, cursive; 
+h1{font-family: 'Waiting for the Sunrise', cursive; 
 font-size: 40px;
 font-weight: bolder;
 color: white;}
@@ -9,4 +9,8 @@ h2{font-family: 'Waiting for the Sunrise', cursive;
 }
 h3{
 font-size: 30px;
+}
+
+p{
+    font-size: 20px;
 }
